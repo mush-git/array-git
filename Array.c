@@ -10,8 +10,7 @@ int main()
         {
             scanf("%d", &A[i][j]);
         }
-        
-    }
+        }
     printf("Major diagonal: ");
     for (i = 0; i < n; i++)
     {
@@ -22,6 +21,7 @@ int main()
                 printf("%d", &A[i][j]);
             }
         }
+        printf("I am checking if my code is changed or not");
     }
     // printf("\nMinor diagonal: ");
     // for (i = 0; i < n; i++)
