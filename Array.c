@@ -22,18 +22,9 @@ int main()
             }
         }
         printf("I am checking if my code is changed or not");
+        printf("Again I am checking if my code is changed or not");
     }
-    // printf("\nMinor diagonal: ");
-    // for (i = 0; i < n; i++)
-    // {
-    //     for (j = 0; j < n; j++)
-    //     {
-    //         if (i == j)
-    //         {
-    //             printf("%d", &A[i][j]);
-    //         }
-    //     }
-    // }
+    
     return 0;
 }
 
